@@ -1,5 +1,5 @@
 # Capstone Project Proposal
-#### *by Vedika Mishra David*  - mishravedika007@gmail.com
+#### *by Vedika Mishra *  - mishravedika007@gmail.com
 
 ## CNN to identify malign moles on skin
 ### 1. Project Summary and motivation
